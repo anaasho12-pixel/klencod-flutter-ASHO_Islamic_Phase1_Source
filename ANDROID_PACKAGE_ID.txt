@@ -1,0 +1,5 @@
+Intended Android applicationId / namespace:
+com.asho.islamic
+
+Set this in android/app/build.gradle or android/app/build.gradle.kts after
+generating the Android platform folder with Flutter.
